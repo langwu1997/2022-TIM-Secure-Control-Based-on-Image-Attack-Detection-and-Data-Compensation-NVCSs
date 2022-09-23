@@ -15,4 +15,4 @@ author={Dajun Du, Lang Wu, Changda Zhang, Zixiang Fei, Lisi Yang, Minrui Fei, an
 journal={IEEE Transactions on Instrumentation and Measurement}, 
 title={ Co-Design Secure Control Based on Image Attack Detection and Data Compensation for Networked Visual Control Systems }, 
 note={to be publised, DOI: 10.1109/TIM.2022.3206760.}
-}
+
